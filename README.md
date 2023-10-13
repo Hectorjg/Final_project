@@ -49,3 +49,9 @@ The dataset used for this project can be found on www.kaggle.com/datasets/paulti
    --------------------------------
    Model: cnn_92.joblib
    --------------------------------
+
+   ## Aditional dataset: Diabetic retinopathy
+  - This is a CNN model for a multiclass classification problem with 5 different classes.
+  - This dataset has all the images in the same size, but the number images per class is imbalanced.
+  - The architecture may be similar to the architecture of "pneumonia", but all the parameters are different due to the nature of the images.
+  - The dataset can be find in: www.kaggle.com/datasets/sachinkumar413/diabetic-retinopathy-preprocessed-dataset.
