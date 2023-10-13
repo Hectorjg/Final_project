@@ -30,7 +30,9 @@ The dataset used for this project can be found on www.kaggle.com/datasets/paulti
   
 ### Compile to train the model
   -Select the optimizer.
+  
   -Choose the Loss metrics.
+  
   -Choose the accuracy metrics.
   
 ### Evaluate Accuracy
