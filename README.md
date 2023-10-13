@@ -46,6 +46,7 @@ The dataset used for this project can be found on www.kaggle.com/datasets/paulti
 ## Conclussion:
 
   -The Learning rate of the model is slow, meaning that the model has problems converging.
+  
   -Even if the accuracy archives a 92.30% accuracy, it might need a deeper architecture to perform better.
 
    --------------------------------
